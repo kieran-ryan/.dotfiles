@@ -1,0 +1,45 @@
+{
+  "editor.bracketPairColorization.enabled": true,
+  "explorer.confirmDragAndDrop": false,
+  "explorer.confirmDelete": false,
+  "workbench.iconTheme": "material-icon-theme",
+  "material-icon-theme.activeIconPack": "react",
+  "editor.fontFamily": "Monaspace Neon, Comic Mono, Menlo, Monaco, 'Courier New', monospace",
+  "editor.fontLigatures": "'calt', 'liga', 'dlig', 'ss01', 'ss02'",
+  "terminal.integrated.enableMultiLinePasteWarning": false,
+  "editor.stickyScroll.enabled": true,
+  "[python]": {
+    "editor.formatOnType": true
+  },
+  "[json]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "prettier.endOfLine": "auto",
+  "cSpell.language": "en-GB",
+  "security.workspace.trust.untrustedFiles": "open",
+  "workbench.colorTheme": "GitHub Dark",
+  "redhat.telemetry.enabled": false,
+  "[typescript]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[javascript]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[typescriptreact]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[jsonc]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "window.zoomLevel": -1,
+  "editor.unicodeHighlight.invisibleCharacters": false,
+  "[markdown]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[html]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "workbench.statusBar.visible": false,
+  "workbench.layoutControl.enabled": false,
+  "window.commandCenter": false
+}

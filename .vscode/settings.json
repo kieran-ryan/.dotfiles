@@ -6,7 +6,9 @@
   "material-icon-theme.activeIconPack": "react",
   "editor.fontFamily": "Monaspace Neon, Comic Mono, Menlo, Monaco, 'Courier New', monospace",
   "editor.fontLigatures": "'calt', 'liga', 'dlig', 'ss01', 'ss02'",
-  "terminal.integrated.enableMultiLinePasteWarning": false,
+  "editor.formatOnSaveMode": "file",
+  "editor.formatOnSave": true,
+  "terminal.integrated.enableMultiLinePasteWarning": "never",
   "editor.stickyScroll.enabled": true,
   "[python]": {
     "editor.formatOnType": true
@@ -31,7 +33,6 @@
   "[jsonc]": {
     "editor.defaultFormatter": "esbenp.prettier-vscode"
   },
-  "window.zoomLevel": -1,
   "editor.unicodeHighlight.invisibleCharacters": false,
   "[markdown]": {
     "editor.defaultFormatter": "esbenp.prettier-vscode"
@@ -41,5 +42,7 @@
   },
   "workbench.statusBar.visible": false,
   "workbench.layoutControl.enabled": false,
-  "window.commandCenter": false
+  "window.commandCenter": false,
+  "python.analysis.typeCheckingMode": "strict",
+  "terminal.integrated.defaultProfile.osx": "zsh"
 }

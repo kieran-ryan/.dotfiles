@@ -102,3 +102,4 @@ source $ZSH/oh-my-zsh.sh
 
 ZSH_THEME_GIT_PROMPT_PREFIX="%{$fg_bold[blue]%}(%{$fg[red]%}"
 
+alias gs='git status'

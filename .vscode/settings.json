@@ -39,12 +39,11 @@
   "prettier.endOfLine": "auto",
   "python.analysis.typeCheckingMode": "strict",
   "redhat.telemetry.enabled": false,
-  "security.workspace.trust.untrustedFiles": "open",
   "terminal.integrated.defaultProfile.osx": "zsh",
   "terminal.integrated.enableMultiLinePasteWarning": "never",
+  "window.commandCenter": false,
   "workbench.colorTheme": "GitHub Dark",
   "workbench.iconTheme": "material-icon-theme",
   "workbench.layoutControl.enabled": false,
-  "workbench.statusBar.visible": false,
-  "window.commandCenter": false
+  "workbench.statusBar.visible": false
 }

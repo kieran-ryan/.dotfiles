@@ -1,0 +1,6 @@
+[
+  {
+    "key": "shift+cmd+c",
+    "command": "workbench.action.chat.openInSidebar"
+  }
+]

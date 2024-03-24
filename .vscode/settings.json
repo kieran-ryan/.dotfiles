@@ -15,7 +15,8 @@
     "editor.defaultFormatter": "esbenp.prettier-vscode"
   },
   "[python]": {
-    "editor.formatOnType": true
+    "editor.formatOnType": true,
+    "editor.defaultFormatter": "charliermarsh.ruff"
   },
   "[typescript]": {
     "editor.defaultFormatter": "esbenp.prettier-vscode"
@@ -37,13 +38,13 @@
   "explorer.confirmDragAndDrop": false,
   "material-icon-theme.activeIconPack": "react",
   "prettier.endOfLine": "auto",
-  "python.analysis.typeCheckingMode": "strict",
   "redhat.telemetry.enabled": false,
   "terminal.integrated.defaultProfile.osx": "zsh",
   "terminal.integrated.enableMultiLinePasteWarning": "never",
   "window.commandCenter": false,
-  "workbench.colorTheme": "GitHub Dark",
+  "workbench.colorTheme": "GitHub Dark Colorblind (Beta)",
   "workbench.iconTheme": "material-icon-theme",
   "workbench.layoutControl.enabled": false,
-  "workbench.statusBar.visible": false
+  "workbench.statusBar.visible": false,
+  "workbench.activityBar.location": "hidden"
 }

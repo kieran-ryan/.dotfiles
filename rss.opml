@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="1.1">
+	<head>
+		<title>rss.opml</title>
+	</head>
+	<body>
+		<outline text="GitHub" title="GitHub" description="" type="rss" version="RSS" htmlUrl="https://github.blog/" xmlUrl="https://github.blog/feed/"/>
+		<outline text="Letters To A New Developer" title="Letters To A New Developer" description="" type="rss" version="RSS" htmlUrl="https://letterstoanewdeveloper.com/" xmlUrl="https://letterstoanewdeveloper.com/feed/"/>
+		<outline text="Pinterest Engineering" title="Pinterest Engineering" description="" type="rss" version="RSS" htmlUrl="https://medium.com/pinterest-engineering?source=rss----4c5a5f6279b6---4" xmlUrl="https://medium.com/feed/pinterest-engineering"/>
+		<outline text="Pragmatic Engineer" title="Pragmatic Engineer" description="" type="rss" version="RSS" htmlUrl="https://blog.pragmaticengineer.com/" xmlUrl="https://blog.pragmaticengineer.com/rss/"/>
+		<outline text="README Project" title="README Project" description="" type="rss" version="RSS" htmlUrl="https://github.com/readme" xmlUrl="https://github.com/readme.rss"/>
+		<outline text="Real Python" title="Real Python" description="" type="rss" version="RSS" htmlUrl="" xmlUrl="https://realpython.com/atom.xml"/>
+		<outline text="Spotify Engineering" title="Spotify Engineering" description="" type="rss" version="RSS" htmlUrl="https://engineering.atspotify.com/" xmlUrl="http://labs.spotify.com/feed/"/>
+		<outline text="The Overflow" title="The Overflow" description="" type="rss" version="RSS" htmlUrl="https://stackoverflow.blog/" xmlUrl="https://stackoverflow.blog/feed"/>
+		<outline text="people" title="people">
+			<outline text="Anthony Shaw" title="Anthony Shaw" description="" type="rss" version="RSS" htmlUrl="https://tonybaloney.github.io/#blog" xmlUrl="https://tonybaloney.github.io/rss.xml"/>
+			<outline text="Jeffrey Zeldman" title="Jeffrey Zeldman" description="" type="rss" version="RSS" htmlUrl="https://zeldman.com/" xmlUrl="https://zeldman.com/rss/"/>
+			<outline text="Jeremy Kieth" title="Jeremy Kieth" description="" type="rss" version="RSS" htmlUrl="https://adactio.com/journal/" xmlUrl="http://adactio.com/journal/rss"/>
+			<outline text="Julia Evans" title="Julia Evans" description="" type="rss" version="RSS" htmlUrl="" xmlUrl="https://jvns.ca/atom.xml"/>
+			<outline text="Matt Wynne" title="Matt Wynne" description="" type="rss" version="RSS" htmlUrl="https://mattwynne.net/" xmlUrl="https://mattwynne.net/feed/"/>
+		</outline>
+	</body>
+</opml>

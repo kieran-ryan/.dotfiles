@@ -103,3 +103,9 @@ source $ZSH/oh-my-zsh.sh
 ZSH_THEME_GIT_PROMPT_PREFIX="%{$fg_bold[blue]%}(%{$fg[red]%}"
 
 alias gs='git status'
+
+# Activate autosuggestions
+source /opt/homebrew/share/zsh-autosuggestions/zsh-autosuggestions.zsh
+source $(brew --prefix)/share/zsh-autosuggestions/zsh-autosuggestions.zsh
+
+. "$HOME/.local/bin/env"

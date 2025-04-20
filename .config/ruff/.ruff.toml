@@ -1,0 +1,12 @@
+lint.select = ["ALL"]
+
+[lint.isort]
+required-imports = [
+    "from __future__ import annotations",
+]
+
+[lint.mccabe]
+max-complexity = 10
+
+[lint.pydocstyle]
+convention = "google"
